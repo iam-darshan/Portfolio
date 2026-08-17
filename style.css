@@ -189,6 +189,7 @@ html{
     display: flex;
     justify-content: center;
     gap: 40px;
+    flex-wrap: wrap;
 }
 
 .project1{
@@ -201,6 +202,7 @@ html{
     border: 1px solid black;
     border-radius: 20px;
     font-family: Montserrat;
+    
 
 }
 a{
