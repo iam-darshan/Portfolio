@@ -190,6 +190,7 @@ html{
     justify-content: center;
     gap: 40px;
     flex-wrap: wrap;
+    flex-wrap: wrap;
 }
 
 .project1{
